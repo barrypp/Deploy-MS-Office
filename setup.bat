@@ -1,1 +1,1 @@
-setup /configure office2019Volume.xml
+setup /configure Configuration.xml

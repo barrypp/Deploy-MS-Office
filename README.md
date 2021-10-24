@@ -1,4 +1,5 @@
-# Deploy-Office-2019
-Files used to download and install Office 2019
+# Deploy-MS-Office
+Files used to download and install Office
 
-https://docs.microsoft.com/en-us/deployoffice/office2019/deploy
+https://docs.microsoft.com/en-us/deployoffice/ltsc2021/deploy
+https://config.office.com/deploymentsettings

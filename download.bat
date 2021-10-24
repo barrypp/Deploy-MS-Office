@@ -1,1 +1,1 @@
-setup /download office2019Volume.xml
+setup /download Configuration.xml
